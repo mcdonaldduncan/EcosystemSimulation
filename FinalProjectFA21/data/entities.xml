@@ -1,0 +1,24 @@
+<environment type = "Cave" name = "Bracken Cave">
+    <entity type="Producer" name="Corn" species = "Zea mays saccharata" foodsource = "Soil" count = "20000" identity = "Corn" dailyintake = "1">
+    </entity>
+    <entity type="Producer" name="Cotton" species = "Gossypium hirsutum" foodsource = "Soil" count = "20000" identity = "Cotton" dailyintake = "1">
+    </entity>
+    <entity type="Consumer" name="Corn earworm" species = "Helicoverpa zea" foodsource = "Corn" count = "5000" identity = "Worm" dailyintake = "2">
+    </entity>
+    <entity type="Consumer" name="Cotton Bollworm" species = "Helicoverpa zea" foodsource = "Cotton" count = "5000" identity = "Worm" dailyintake = "2">
+    </entity>
+    <entity type="Consumer" name="Brazilian free-tailed bat" species = "Tadarida brasiliensis" foodsource = "Worm" count = "500" identity = "Bat" dailyintake = "10">
+    </entity>
+    <entity type="Consumer" name="Red-tailed hawk" species = "Buteo jamaicensis" foodsource = "Bat" count = "300" identity = "Hawk" dailyintake = "3">
+    </entity>
+    <entity type="Decomposer" name="Dermestid beetle" species = "Dermestes carnivora" foodsource = "Biotic" count = "100000" identity = "Beetle" dailyintake = "5">
+    </entity>
+    <entity type="Decomposer" name="Guano Beetle" species = "Jacobsoniidae" foodsource = "Biotic" count = "100000" identity = "Beetle" dailyintake = "5">
+    </entity>
+    <entity type="SoilNutrient" name="Soil" species = "Soil" foodsource = "N/A" count = "200000" identity = "Soil" dailyintake = "1">
+    </entity>
+    <entity type="BioticRemains" name="Guano" species = "Guano" foodsource = "N/A" count = "100000" identity = "Biotic" dailyintake = "1">
+    </entity>
+    <entity type="BioticRemains" name="Biotic" species = "Biotic" foodsource = "N/A" count = "100000" identity = "Biotic" dailyintake = "1">
+    </entity>
+</environment>
