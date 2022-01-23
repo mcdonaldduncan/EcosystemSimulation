@@ -1,0 +1,149 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="FinalProjectFA21.Bat">
+    <Position X="3.75" Y="8" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Bat.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="FinalProjectFA21.Consumer">
+    <Position X="0.5" Y="4.25" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Consumer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FinalProjectFA21.DataLoad">
+    <Position X="19.5" Y="12" Width="3.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAEAAgAAAAAA=</HashCode>
+      <FileName>DataLoad.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FinalProjectFA21.Decomposer">
+    <Position X="0.5" Y="0.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Decomposer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FinalProjectFA21.Ecosystem">
+    <Position X="13.75" Y="0.5" Width="6" />
+    <TypeIdentifier>
+      <HashCode>AAQAABAQwQAAAIAAgAABAAAAUAAAATAQACAAAAAAAAA=</HashCode>
+      <FileName>Ecosystem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FinalProjectFA21.Entity">
+    <Position X="4.75" Y="0.5" Width="4.75" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAAAAQAQQABAAUABRAAAAUAIAAAEAAAgBABAI=</HashCode>
+      <FileName>Entity.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FinalProjectFA21.CountChangedEventArgs">
+    <Position X="19.5" Y="9.75" Width="3.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAICAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Entity.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FinalProjectFA21.Hawk">
+    <Position X="0.5" Y="8" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Hawk.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="FinalProjectFA21.MainWindow" BaseTypeListCollapsed="true">
+    <Position X="13.75" Y="13.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MainWindow.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="FinalProjectFA21.Person">
+    <Position X="10.5" Y="1.75" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAA=</HashCode>
+      <FileName>Person.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FinalProjectFA21.Player">
+    <Position X="12" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Player.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FinalProjectFA21.Powerup">
+    <Position X="19.5" Y="6.25" Width="4.75" />
+    <TypeIdentifier>
+      <HashCode>AgAACAAAAAgAAAAAAAAAAAYAAAAGAAAAAAAAAAIAAAA=</HashCode>
+      <FileName>Powerup.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FinalProjectFA21.Producer">
+    <Position X="0.5" Y="2" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Producer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FinalProjectFA21.Shop">
+    <Position X="9.75" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Shop.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FinalProjectFA21.Simulation" BaseTypeListCollapsed="true">
+    <Position X="20" Y="0.5" Width="4.25" />
+    <TypeIdentifier>
+      <HashCode>AAQAAgBQgAAAAAQAAQAAAADAAQAKBAABgAAEAEAAAgA=</HashCode>
+      <FileName>Simulation.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="FinalProjectFA21.StartPage" BaseTypeListCollapsed="true">
+    <Position X="13.75" Y="5.5" Width="4.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAA=</HashCode>
+      <FileName>StartPage.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="FinalProjectFA21.TemperatureReading">
+    <Position X="13.75" Y="7.5" Width="4" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEgAA=</HashCode>
+      <FileName>TemperatureReading.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FinalProjectFA21.Utility">
+    <Position X="13.75" Y="9.75" Width="3.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAEAAA=</HashCode>
+      <FileName>Utility.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="FinalProjectFA21.Guano">
+    <Position X="7.75" Y="8" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Guano.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Enum Name="FinalProjectFA21.EnvironmentStatus">
+    <Position X="13.75" Y="11.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAAAAAAAAIAAACAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Ecosystem.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

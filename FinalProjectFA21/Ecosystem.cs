@@ -72,7 +72,6 @@ namespace FinalProjectFA21
                 CheckCountChange(i);
                 foreach (Entity n in entities)
                 {
-
                     if (n.Identity == i.Foodsource)
                     {
                         if (n.Count > i.RequiredFood())
@@ -86,7 +85,6 @@ namespace FinalProjectFA21
                             //this might be the problem, check it out
                             FindEntity(entities, "Biotic").Count += i.Count / weatherImpact;
                             i.Count -= (i.RequiredFood() - n.Count) / weatherImpact;
-                            
                         }
                     }
                 }
