@@ -79,3 +79,25 @@ C:\Users\dfmcd\OneDrive - Columbia College Chicago\FinalProjectFA21\obj\Debug\Fi
 C:\Users\dfmcd\OneDrive - Columbia College Chicago\FinalProjectFA21\obj\Debug\FinalProjectFA21.csproj.SuggestedBindingRedirects.cache
 C:\Users\dfmcd\OneDrive - Columbia College Chicago\FinalProjectFA21\obj\Debug\About.g.cs
 C:\Users\dfmcd\OneDrive - Columbia College Chicago\FinalProjectFA21\obj\Debug\About.baml
+C:\Users\dfmcd\Documents\GitHub\EcosystemSimulation\FinalProjectFA21\bin\Debug\FinalProjectFA21.exe.config
+C:\Users\dfmcd\Documents\GitHub\EcosystemSimulation\FinalProjectFA21\bin\Debug\FinalProjectFA21.exe
+C:\Users\dfmcd\Documents\GitHub\EcosystemSimulation\FinalProjectFA21\bin\Debug\FinalProjectFA21.pdb
+C:\Users\dfmcd\Documents\GitHub\EcosystemSimulation\FinalProjectFA21\obj\Debug\FinalProjectFA21.csproj.AssemblyReference.cache
+C:\Users\dfmcd\Documents\GitHub\EcosystemSimulation\FinalProjectFA21\obj\Debug\FinalProjectFA21.csproj.SuggestedBindingRedirects.cache
+C:\Users\dfmcd\Documents\GitHub\EcosystemSimulation\FinalProjectFA21\obj\Debug\About.g.cs
+C:\Users\dfmcd\Documents\GitHub\EcosystemSimulation\FinalProjectFA21\obj\Debug\MainWindow.g.cs
+C:\Users\dfmcd\Documents\GitHub\EcosystemSimulation\FinalProjectFA21\obj\Debug\Simulation.g.cs
+C:\Users\dfmcd\Documents\GitHub\EcosystemSimulation\FinalProjectFA21\obj\Debug\StartPage.g.cs
+C:\Users\dfmcd\Documents\GitHub\EcosystemSimulation\FinalProjectFA21\obj\Debug\App.g.cs
+C:\Users\dfmcd\Documents\GitHub\EcosystemSimulation\FinalProjectFA21\obj\Debug\FinalProjectFA21_MarkupCompile.cache
+C:\Users\dfmcd\Documents\GitHub\EcosystemSimulation\FinalProjectFA21\obj\Debug\FinalProjectFA21_MarkupCompile.lref
+C:\Users\dfmcd\Documents\GitHub\EcosystemSimulation\FinalProjectFA21\obj\Debug\About.baml
+C:\Users\dfmcd\Documents\GitHub\EcosystemSimulation\FinalProjectFA21\obj\Debug\MainWindow.baml
+C:\Users\dfmcd\Documents\GitHub\EcosystemSimulation\FinalProjectFA21\obj\Debug\Simulation.baml
+C:\Users\dfmcd\Documents\GitHub\EcosystemSimulation\FinalProjectFA21\obj\Debug\StartPage.baml
+C:\Users\dfmcd\Documents\GitHub\EcosystemSimulation\FinalProjectFA21\obj\Debug\FinalProjectFA21.g.resources
+C:\Users\dfmcd\Documents\GitHub\EcosystemSimulation\FinalProjectFA21\obj\Debug\FinalProjectFA21.Properties.Resources.resources
+C:\Users\dfmcd\Documents\GitHub\EcosystemSimulation\FinalProjectFA21\obj\Debug\FinalProjectFA21.csproj.GenerateResource.cache
+C:\Users\dfmcd\Documents\GitHub\EcosystemSimulation\FinalProjectFA21\obj\Debug\FinalProjectFA21.csproj.CoreCompileInputs.cache
+C:\Users\dfmcd\Documents\GitHub\EcosystemSimulation\FinalProjectFA21\obj\Debug\FinalProjectFA21.exe
+C:\Users\dfmcd\Documents\GitHub\EcosystemSimulation\FinalProjectFA21\obj\Debug\FinalProjectFA21.pdb
