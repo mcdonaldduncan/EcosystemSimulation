@@ -26,11 +26,14 @@ namespace FinalProjectFA21
         private DispatcherTimer timer;
         private TimeSpan timeSpan;
         private int currentDay = 0;
+        private int shopIndex = 0;
+        private int inventoryIndex = 0;
+
         Ecosystem ecosystem = new Ecosystem();
         Player player = new Player();
         Shop shop = new Shop();
-        private int shopIndex = 0;
-        private int inventoryIndex = 0;
+        
+
         
         public void ShowData()
         {
