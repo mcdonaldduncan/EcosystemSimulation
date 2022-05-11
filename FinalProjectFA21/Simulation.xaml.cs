@@ -37,7 +37,6 @@ namespace FinalProjectFA21
         
         public void ShowData()
         {
-            
             CottonWormCount.Text = FindEntity(ecosystem.entities, "Cotton Bollworm").Count.ToString();
             CornWormCount.Text = FindEntity(ecosystem.entities, "Corn earworm").Count.ToString();
             CornCount.Text = FindEntity(ecosystem.entities, "Corn").Count.ToString();
