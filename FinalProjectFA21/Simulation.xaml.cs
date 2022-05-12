@@ -50,7 +50,6 @@ namespace FinalProjectFA21
             testblock.Text = ecosystem.HandlerWrite();
             Status.Text = ecosystem.status.ToString();
             CurrentWeather.Text = $"Temp: {ecosystem.ReturnTemp()}";
-
         }
 
         public Simulation()
