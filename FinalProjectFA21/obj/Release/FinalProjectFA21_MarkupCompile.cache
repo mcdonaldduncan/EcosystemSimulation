@@ -4,11 +4,11 @@
 winexe
 C#
 .cs
-C:\Users\dfmcd\Documents\GitHub\EcosystemSimulation\FinalProjectFA21\obj\Debug\
+C:\Users\dfmcd\Documents\GitHub\EcosystemSimulation\FinalProjectFA21\obj\Release\
 FinalProjectFA21
 none
 false
-DEBUG;TRACE
+TRACE
 C:\Users\dfmcd\Documents\GitHub\EcosystemSimulation\FinalProjectFA21\App.xaml
 41143246194
 
