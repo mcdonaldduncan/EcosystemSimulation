@@ -105,8 +105,6 @@ namespace FinalProjectFA21
         public void CheckCountChange(Entity i)
         {
             i.CountChanged += i.species_CountChanged;
-            
-
         }
 
         public void NoNegative(Entity i)
